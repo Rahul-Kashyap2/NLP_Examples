@@ -1,4 +1,6 @@
-# NLP_Examples
+# NLP: Ngram and Sentiment Analysis
+
+NLP_Examples
 
 
 Part-I: Replace 'Netflix' with company name that you want to analyse (in the second line chunk)
