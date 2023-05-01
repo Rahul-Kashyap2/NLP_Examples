@@ -10,4 +10,9 @@ Part- II: You all can download your desired company Quaterly Call transcript fro
 & its part participants to do your own analysis
 
 
+Download and Run Part-I and Part-II python (.ipynb) file.
+
+Use (!pip install library_name) (code to install)  for libraries your don't have.
+
+
 Enjoy !! 
